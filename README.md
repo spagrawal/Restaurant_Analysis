@@ -1,19 +1,24 @@
-Introduction
+Conducted city-wise analysis, identifying the city with the highest number of restaurants and determining the average rating for each city, leading to actionable insights for targeted improvements.
 
-In this small project I have analyzed a small dataset of Restaurant Reviews, and by using machine learning algorithms to build a sentiment classifier.
+Developed and implemented a visual representation of price range distribution among restaurants using histograms, aiding in strategic pricing decisions.
 
-Data Description
+Analyzed the impact of online delivery on restaurant ratings, contributing to the improvement of services and customer satisfaction.
 
-The dataset contains two columns, one contains the user reviews and one contains whether user liked it or not which is represented using 0s and 1s. The dataset only have 1000 entries and the dataset is there inside '/Data'.
+Conducted in-depth cuisine combination analysis, revealing trends in high-rated cuisine pairings and guiding menu optimization strategies.
 
-Libraries Used
+Utilized geographic analysis to identify restaurant clusters, providing valuable insights for location-based marketing strategies.
 
-Several Python libraried are used: Pandas, nltk, spacy, scikit-learn etc.
+Conducted thorough reviews of restaurant chains, contributing to marketing strategies and brand positioning.
 
-Project Description
+Applied advanced statistical methods to analyze voting patterns and their correlation with restaurant ratings, aiding in the identification of key performance indicators.
 
-First the dataset is analysed and several features are extracted like number of characters, number of words in the reviews also the average word length in each review. Then from the text data bag of words matrix as well as term frequency inverse document frequency(TF-IDF) is created and combined with the original datset and the data is stored as an excel file inside '/Data' folder. Finally the preprocessed data is used to build the machine learning models for sentiment analysis, I have used Multinomial Naive Bayes, Bernoulli Naive Bayes and Random Forest.
+Explored relationships between price ranges and the availability of online delivery and table booking, offering insights into service offerings based on pricing tiers.
 
-Conclusion
+Technical Skills:
 
-For a large dataset more features can be extracted also for TF-IDF bi-gram, tri-gram can be extracted and the model accuracy will be more.
+Programming Languages: Python
+Database Management: SQL
+Data Visualization: Tableau, Matplotlib, Seaborn
+Statistical Analysis: Descriptive and Inferential Statistics
+Tools: Excel (Advanced), Jupyter Notebooks
+
