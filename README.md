@@ -17,8 +17,13 @@ Explored relationships between price ranges and the availability of online deliv
 Technical Skills:
 
 Programming Languages: Python
+
 Database Management: SQL
+
 Data Visualization: Tableau, Matplotlib, Seaborn
+
 Statistical Analysis: Descriptive and Inferential Statistics
+
 Tools: Excel (Advanced), Jupyter Notebooks
+
 
